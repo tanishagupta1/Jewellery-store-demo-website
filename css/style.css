@@ -74,7 +74,7 @@ html{
 #home::before {
   content: "";
   position: absolute;
-  background: url("/images/bglady.jpg") no-repeat center fixed; ;
+  background: url("https://github.com/tanishagupta1/Jewellery-store-demo-website/blob/main/images/bglady.jpg?raw=true") no-repeat center fixed; ;
   background-size: cover;
   height: 444px;
   top: 0px;
@@ -143,7 +143,7 @@ html{
 #sales-section::before {
   content: "";
   position: absolute;
-  background: url("/Img/crystal.jpeg");
+  background: url("https://github.com/tanishagupta1/Jewellery-store-demo-website/blob/main/images/crystal.jpeg?raw=true");
   height: 460px;
   width: 100%;
   z-index: -1;
@@ -174,7 +174,7 @@ font-family: "Bree Serif", serif;
 #contact::before {
   content: "";
   position: absolute;
-  background: url("/Img/purple.jpg") no-repeat center center/cover;
+  background: url("https://github.com/tanishagupta1/Jewellery-store-demo-website/blob/main/images/purple.jpg?raw=true") no-repeat center center/cover;
   height: 460px;
   width: 100%;
   z-index: -1;
