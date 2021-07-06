@@ -1,0 +1,43 @@
+/* Navigation Section */
+
+#navbar{
+    flex-direction: column;
+}
+/* Home Section */
+#home{
+    height: 340px;
+    flex-direction: column;
+    padding: 3px 63px;
+}
+#home::before{
+    height: 590px;
+}
+
+
+/* Accessories Section */
+#accessories-container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#accessories .box {
+    width: 550px;
+}
+#accessories .box img {
+    height: 182px;
+    display: block;
+    margin: auto;
+}
+
+
+
+/* Sales Section */
+#sales{
+    overflow: hidden;
+    
+}
+
+
+
+/* Contact Section */
